@@ -9,7 +9,7 @@ slide-transition: fade(.5)
 
 ---
 
-# 自己紹介
+# 自己紹介 [^1]
 
 - フリーランスWeb制作者＠岐阜市
 - Gifu WordPress Meetup 共同オーガナイザー
@@ -19,17 +19,15 @@ slide-transition: fade(.5)
 - **olein-design.con @Olein_jp**
 - **嫁様が埼玉に単身赴任中につき家事育児多めの生活**
 
----
-
-# 自己紹介 [^1]
-
-![inline](wordpress-profile.png)
+![right](wordpress-profile.png)
 
 [^1]: [https://profiles.wordpress.org/olein/](https://profiles.wordpress.org/olein/)
 
 ---
 
-## WordPressの公式テーマを読み解いて<br>**実際のテーマ制作（主に受託制作）に役立てられる作法**を紹介します。
+## WordPressの公式テーマを読み解いて<br>**実際（業務）のテーマ制作に役立てられる作法**を紹介します。
+
+#### ※ 話せる話題が幅広すぎるため、より詳しく知りたい方は**アンカンファレンスを活用**してください。
 
 ---
 
@@ -47,12 +45,16 @@ slide-transition: fade(.5)
 # 利用プラグイン
 
 - Show Current Template [^3]
+	- 表示しているページにどんなファイルが読み込まれているかを確認できる
+	- WordPress開発（特にテーマ開発）では必需品
 
 [^3]: [https://ja.wordpress.org/plugins/show-current-template/](https://ja.wordpress.org/plugins/show-current-template/)
 
 ---
 
 # テーマユニットテスト [^4]
+
+## **使っていますか？**
 
 - 投稿や固定ページのダミーデータが提供されている
 - 様々な状況を想定したデータ
