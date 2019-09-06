@@ -39,7 +39,7 @@ slide-transition: fade(.5)
 - functions.phpを読み解く
 - body_class()
 - post_class()
-- テーマを作るにあたっての利用的な考え方
+- テーマを作るにあたっての理想的な考え方
 
 ---
 
@@ -548,7 +548,7 @@ or hook.
 
 1. GitHubリポジトリ作成（受託はprivate）
 2. テストサーバーで環境を用意
-（All in one WP Migrationでローカルへ/利用するとわかっているものは全て設定して）
+（利用するとわかっているものは全て設定して、All in one WP Migrationでローカルへ）
 3. ローカル開発環境用意
 	- local by flywheel
 	- 常用アセット準備（常用mixinなど）
