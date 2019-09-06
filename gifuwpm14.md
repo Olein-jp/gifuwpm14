@@ -25,9 +25,21 @@ slide-transition: fade(.5)
 
 ---
 
-## WordPressの公式テーマを読み解いて<br>**実際（業務）のテーマ制作に役立てられる作法**を紹介します。
+## WordPressの公式テーマを読み解いて<br>**実際（業務）のテーマ制作に役立てられる<br>作法**を紹介します。
 
 #### ※ 話せる話題が幅広すぎるため、より詳しく知りたい方は**アンカンファレンスを活用**してください。
+
+---
+
+# アジェンダ
+
+- テーマ開発の環境について
+- 今日の話の理解・活用に必要な知識
+- TwentyNineteenの内部ファイル
+- functions.phpを読み解く
+- body_class()
+- post_class()
+- テーマを作るにあたっての利用的な考え方
 
 ---
 
@@ -42,11 +54,13 @@ slide-transition: fade(.5)
 
 ---
 
-# 利用プラグイン
+# プラグイン
 
 - Show Current Template [^3]
 	- 表示しているページにどんなファイルが読み込まれているかを確認できる
 	- WordPress開発（特にテーマ開発）では必需品
+
+![right](show-current-template-demo.png)
 
 [^3]: [https://ja.wordpress.org/plugins/show-current-template/](https://ja.wordpress.org/plugins/show-current-template/)
 
